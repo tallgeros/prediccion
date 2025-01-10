@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "prediccion",
+    "slug": "prediccion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+<<<<<<< HEAD
+    "icon": "./assets/favicon.png",
+=======
+    "icon": "./assets/favicon.ico",
+>>>>>>> 9330a5f44ba7ac80405ec0e212eece924d30315f
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+<<<<<<< HEAD
+      "backgroundColor": "#ffffff",
+       "experiments": {
+      "baseUrl": "/expo-gh-pages"}
+    },
+  
+=======
+      "backgroundColor": "#ffffff"
+    },
+>>>>>>> 9330a5f44ba7ac80405ec0e212eece924d30315f
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
